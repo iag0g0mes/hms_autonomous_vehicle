@@ -4,7 +4,7 @@ Created by Iago Pachêco Gomes at USP - ICMC, University of São Paulo - Institu
 
 ## Introduction
 
-HMS_Autonomous_Vehicle is a implementation of a Fault Detection and Diagnosis (FDD) and Prognosis System (PS) for Autonomous Vehicles, which monitor the GPS sensor and Lateral and Longitudinal Controllers, using Dynamic Bayesian Network (DBN).  It also provides the datasets used for learning the DBN parameters, which were collected using the vehicle CaRINA 2 (Intelligent Robotic Car for Autonomous Navigation) [3].
+HMS_Autonomous_Vehicle is an implementation of a Fault Detection and Diagnosis (FDD) and Prognosis System (PS) for Autonomous Vehicles, which monitor the GPS sensor and Lateral and Longitudinal Controllers, using Dynamic Bayesian Network (DBN).  It also provides the datasets used for learning the DBN parameters, which were collected using the vehicle CaRINA 2 (Intelligent Robotic Car for Autonomous Navigation) [3].
 
 
 ## License
