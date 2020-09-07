@@ -19,7 +19,7 @@ Apache License 2.0
 
 ## References
 
-[1] (under revision) GOMES, Iago Pachêco, and WOLF, Denis Fernando. Health  Monitoring System for Autonomous Vehicles using Dynamic Bayesian Networks for Diagnosis and Prognosis. In: ICAR 2019 Special Issue - Journal of Intelligent & Robotic Systems. 2020.  
+[1] (under revision) GOMES, Iago Pachêco; WOLF, Denis Fernando. Health  Monitoring System for Autonomous Vehicles using Dynamic Bayesian Networks for Diagnosis and Prognosis. In: ICAR 2019 Special Issue - Journal of Intelligent & Robotic Systems. 2020.  
 
 [2] GOMES, Iago Pachêco; WOLF, Denis Fernando. A Health Monitoring System with Hybrid Bayesian Network for Autonomous Vehicle. In: 2019 19th International Conference on Advanced Robotics (ICAR). IEEE, 2019. p. 260-265.
 
