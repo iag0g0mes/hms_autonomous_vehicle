@@ -9,6 +9,7 @@ HMS_Autonomous_Vehicle is a implementation of a Fault Detection and Diagnosis (F
 
 ## License
 
+Apache License 2.0
 
 ## Citation
 
