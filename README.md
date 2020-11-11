@@ -16,6 +16,15 @@ Apache License 2.0
 
 ## Usage
 
+1) Download the datasets using the script <i>download.py</i> inside the folder <i>dataset</i>
+
+2) (optional) if you want to use the data with Data Imputation run the code <i>data_imputation.py</i> inside the folder <i>dataset</i> 
+
+3) The codes of each DBN model are inside the folder <i>models</id>
+
+4) To run the model you need to download the SMILE library from the link: https://www.bayesfusion.com/downloads/
+
+5) You can add the library (SMILE) folder in the PYTHONPATH enviroment variable so that python code finds it. 
 
 ## References
 
