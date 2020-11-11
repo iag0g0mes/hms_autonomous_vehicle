@@ -36,4 +36,4 @@ Apache License 2.0
 
 ## Contact
 
-If you find any bug or issue of the software, please contact iagogomes at usp dot br
+If you find any bug or issue of the software, please contact 'iagogomes at usp dot br' or 'iago.pg00 at gmail dot com'
