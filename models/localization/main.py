@@ -29,7 +29,7 @@ if __name__ == '__main__':
 	model  = GPSDBN(time_slice_frames=count_slices, target_frame=target_frame)
 
 	#build
-	# model.build(discrete=True, name='gps_diagnosis_discrete.xdsl')
+	# model.build(name='gps_diagnosis_discrete.xdsl')
 
 	#learning
 	# model.load_network(name='gps_diagnosis_discrete.xdsl')
