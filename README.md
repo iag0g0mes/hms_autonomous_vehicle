@@ -16,7 +16,7 @@ Apache License 2.0
 
 ## Usage
 
-1) Download the datasets using the script <i>download.py</i> inside the folder <i>dataset</i>
+1) Download the datasets using the script <i>download.sh</i> inside the folder <i>dataset</i>
 
 2) (optional) if you want to use the data with Data Imputation run the code <i>data_imputation.py</i> inside the folder <i>dataset</i> 
 
