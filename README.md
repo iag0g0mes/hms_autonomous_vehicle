@@ -13,6 +13,17 @@ Apache License 2.0
 
 ## Citation
 
+BibTeX:
+  @article{gomes2021health,
+    title={Health Monitoring System for Autonomous Vehicles using Dynamic Bayesian Networks for Diagnosis and Prognosis},
+    author={Gomes, Iago Pach{\^e}co and Wolf, Denis Fernando},
+    journal={Journal of Intelligent \& Robotic Systems},
+    volume={101},
+    number={1},
+    pages={1--21},
+    year={2021},
+    publisher={Springer}
+  }
 
 ## Usage
 
